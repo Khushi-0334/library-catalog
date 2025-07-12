@@ -38,12 +38,19 @@ This project was built as part of a Java code challenge to showcase:
 ## 📂 Project Structure
 
 library-catalog/
+
 ├── model/ # Book.java - data model
+
 ├── service/ # BookService.java - business logic
+
 ├── controller/ # BookController.java - REST endpoints
+
 ├── application.properties
+
 ├── library-catalog.postman_collection.json
+
 ├── pom.xml
+
 └── README.md
 
 
